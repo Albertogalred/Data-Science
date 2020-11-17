@@ -205,3 +205,82 @@ man rm
 cd git
 ls
 cp ~/.history history_20201117.txt
+ls
+cd
+ls
+cd git
+git status
+git add history_20201117.txt
+git commit -m "prueba1"
+git push origin main
+git status
+history -i
+history
+cd
+ls -l
+cd data
+cd Data
+cd shell
+ll
+wc Text_example.txt
+wc -w Text_example.txt
+echo -n "hola" | wc
+echo "hola" | wc
+echo "hola " | wc
+cat Text_example.txt| wc
+gedit Text_example.txt
+cat Text_example.txt| wc -|\
+
+cat Text_example.txt| wc
+wc Text_example.txt
+tail -c -1k optd_aircraft.csv | wc
+ls
+cd cd
+cd
+cd whereis opentraveldata
+whereis opentraveldata
+which opentraveldata
+cd Data
+cd opentraveldata
+whereis opentraveldata/
+which opentraveldata/
+ls -lrt | head -n 1
+ls -lrt | tail -n 1
+ls -sSlr | tail -n 1 > largest_file.txt
+cat largest_file.txt
+man tail
+largest_file.rxt > ~/largest_file.txt
+largest_file.txt > ~/largest_file.txt
+mv largest_file.txt ~/largest_file.txt
+cd
+ld
+ls
+cat largest_file.txt
+head -n 5 Data/shell/Finn.txt | wc-w
+head -n 5 ~/Data/shell/Finn.txt | wc -w
+cat -n Data/shell/Finn.txt | head -n 3
+locate Text_example.txt
+cat -n ~/Data/shell/Text_example.txt
+cat -n ~/Data/shell/Text_example.txt | touch pruebaAGR.txt
+cat ~Data/shell/pruebaAGR.txt
+cat -n  ~Data/shell/pruebaAGR.txt
+cat ~/Data/shell/pruebaAGR.txt
+cd Data
+cd shell
+cd
+cat pruebaAGR.txt
+ls pruebaAGR.txt
+gedit pruebaAGR.txt
+gedit ~/Data/shell/Text_example.txt
+cat -n ~/Data/shell/Text_example.txt >  pruebaAGR.txt
+gedit pruebaAGR.txt
+cat release
+release
+$(date) > prueba3.txt
+$(date) | touch  prueba3.txt
+$(date)
+$date
+cd git
+ls
+cat ~/.history | grep cp
+cp $HISTFILE history_20201117.txt
