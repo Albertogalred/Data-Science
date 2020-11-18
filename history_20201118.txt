@@ -382,3 +382,35 @@ cd
 /home/dsc/.history >> history_20201118.txt
 cat .history
 cat .history >> history_20201118.txt
+cd git
+git add /home/dsc/history_20201118.txt
+cd
+cat history_20201118.txt >> /home/dsc/git/history_20201118.txt
+cd git
+git add /home/dsc/history_20201118.txt
+git add history_20201118.txt
+git commit -m "prueba2"
+git push origin main
+ls -lrth | tail -n 1
+cd
+cd bin
+locate /bin
+locate /bin/
+clear
+locate bin/bash
+cat ~/bin/bash
+ls  ~/bin/bash
+cd GIT_TEAM5
+git remote add github.com/rbarlaam/TEAM5.git
+git clone github.com/rbarlaam/TEAM5.git
+git clone  https://github.com/rbarlaam/TEAM5
+cd TEAM5
+ls
+git pull
+ls
+cd
+cd git
+cat history > history_20201118.txt
+cat ~/history > history_20201118.txt
+cat ~/history
+cat ~/.history > history_20201118.txt
