@@ -1,5 +1,5 @@
 # shell
-This in an example of a repository where we will track our shell histories.
+Detección de cultivos mediante imágenes multiespectrales
 *Shell basic
 *Shell not so basic
 *Other
