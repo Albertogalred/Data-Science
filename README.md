@@ -1,5 +1,5 @@
-Título: Detección de cultivos mediante imágenes multiespectrales
+Título: Detección de anomalías pulmonares a partir de imágenes de rayos X
 
 Autor(a)(es): Alberto Galego Redondo
 
-Descripción: Cálculo de la superficie cultivada de una determinada especie vegetal en un área geográfica mediante el procesamiento de imágenes multiespectrales y técnicas de clasificacións
+Descripción: Aplicación de técnicas de Deep Learning en el entorno Google Colab para la detección de anomalías en pulmones a partir de imágenes de rayos X
